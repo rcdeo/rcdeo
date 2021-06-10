@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Cortes</h1>
+<h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Student of Software Engineering at <a href="https://ead.infnet.edu.br/" target="_blank"> Instituto Infnet </a></h3>
 <br/>
 <p align="center">
