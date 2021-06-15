@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Student of Software Engineering at <a href="https://ead.infnet.edu.br/" target="_blank"> Instituto Infnet </a></h3>
+<h3 align="center">Student of Software Engineering at <a href="https://ead.infnet.edu.br/"> Instituto Infnet </a></h3>
 <br/>
 <p align="center">
-	<a href="https://www.linkedin.com/in/rcdeo/" align="center" target="_blank"> 
+	<a href="https://www.linkedin.com/in/rcdeo/" align="center"> 
 	<img src="https://img.shields.io/static/v1?label=Linkedin&message=rcdeo&color=0a66c2&style=for-the-badge&logo=LinkedIn" alt="rcdeo" /></a>
 </p>
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcdeo&theme=city-lights" alt="rcdeo" />
 </p>
 
-<hr />
-
-<details align="center">
-	<summary><h3 style="display: inline;">What am I learning?</h3></summary>
+<p align="center">
 	<h4 align="center">Languages, Libraries, Frameworks and more.</h4>
 	<p align="center">
 	<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=HTML5&labelColor=ffcb91&color=f06529" />
@@ -27,8 +24,4 @@
 	<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&labelColor=f29111&color=00758f" />
 	<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&labelColor=212529&color=336791" />
 	</p>
-</details>
-
-<hr />
-
-
+</p>
