@@ -23,7 +23,7 @@
 	<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&labelColor=1f2f2b&color=57ab5a" />
 	<img align="center" alt="npm" src="https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&labelColor=c40b0a&color=cb3837" />
 </br>
-	<img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java&labelColor=5382a1&color=f89820" />
+	<img align="center" alt="Java" src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&labelColor=5382a1&color=f89820" />
 	<img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=spring&labelColor=1b1f23&color=6db33f" />
 	<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&labelColor=f29111&color=00758f" />
 	<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&labelColor=2b3b41&color=336791" />	
@@ -35,5 +35,6 @@
 	<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&labelColor=2b3b41&color=ff6c37" />
 	<img align="center" alt="VsCode" src="https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visualstudiocode&labelColor=0066B8&color=0098FF" />
 	<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-black?style=flat-square&logo=eclipse&labelColor=F7941E&color=3E4D78" />
+	<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&labelColor=002A64&color=2496ED" />
 	</p>
 </p>
